@@ -1,3 +1,16 @@
+# Project Description
+
+This project was an exercise in using react-redux.  It uses a local json-server to store data.  It uses Formik for a form and miscellaneous other react base packages.  See package.json for a list of dependencies.
+
+``````
+npm start
+``````
+
+``````
+jserver  -  to start the local json-server
+``````
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
